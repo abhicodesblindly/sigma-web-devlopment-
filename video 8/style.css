@@ -1,0 +1,27 @@
+p{
+    background-color: #29c1db;
+}
+
+a{
+    background-color: blueviolet;
+}
+
+div{
+    background-color: #eb1111;
+}
+
+span {
+    background-color: #d1ff06;
+    display: inline-block;
+    width: 500px;
+    height: 20px;
+}
+strong{
+    background-color: #0c9b3b;
+}
+em{
+    background-color: #c0cc14;
+}
+input{
+    background-color: #8f10e4;
+}
